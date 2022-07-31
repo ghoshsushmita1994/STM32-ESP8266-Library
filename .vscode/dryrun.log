@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/mnt/c/Users/DELL/STM32CubeIDE/Tests/STM32-ESP8266-library'
+make: Leaving directory '/mnt/c/Users/DELL/STM32CubeIDE/Tests/STM32-ESP8266-library'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
